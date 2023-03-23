@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "mod09nrt"]
+	path = mod09nrt
+	url = https://github.com/cran/mod09nrt
+	shallow = true
+	registered = true
+[submodule "proccalibrad"]
+	path = proccalibrad
+	url = https://github.com/cran/proccalibrad
+	shallow = true
+	registered = true
